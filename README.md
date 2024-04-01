@@ -8,7 +8,6 @@
 <br>
 
 
-<div class"d-flex">
-	[![trophy](https://github-profile-trophy.vercel.app/?username=Luan-MB&theme=onedark)](https://github.com/Luan-MB/github-profile-trophy)
-</div> 
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Luan-MB&theme=onedark" alt="LuanMB" /></a></p>
+
 <br>
