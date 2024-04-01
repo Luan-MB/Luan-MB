@@ -8,6 +8,6 @@
 <br>
 
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Luan-MB&theme=onedark" alt="LuanMB" /></a></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Luan-MB&theme=onedark&rank=-B,-C,-SECRET" alt="LuanMB" /></a></p>
 
 <br>
