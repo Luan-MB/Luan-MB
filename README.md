@@ -8,6 +8,6 @@
 <br>
 
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Luan-MB&theme=dracula&rank=-B,-C,-UNKNOWN" alt="LuanMB" /></a></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Luan-MB&theme=dracula&rank=-B,-C" alt="LuanMB" /></a></p>
 
 <br>
