@@ -1,4 +1,4 @@
-<h2> ----- Luan Machado Bernardt -----</h2>
+<h2> ----- Luan Bernardt -----</h2>
 
 <div>
 	<ul>
